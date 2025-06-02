@@ -1,0 +1,8 @@
+/root/wtq_project/haar/haar/build/CMakeFiles/main.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/detect.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/detect_haar_roi.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/detect_haar_threshold_roi.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/detect_drone_template.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/detect_drone_with_box_estimation.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/edit_cache.dir
+/root/wtq_project/haar/haar/build/CMakeFiles/rebuild_cache.dir
